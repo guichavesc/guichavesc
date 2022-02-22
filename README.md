@@ -1,18 +1,6 @@
-<h1 align="center">Hi 👋, I'm Guilherme Chilo'</h1>
-<h3 align="center">A passionate fullstack developer on Pivotree, Canadá.</h3>
-
-- 🔭 I’m currently working on **Pivotree - Canadá!**
-
-- 🌱 I’m currently learning **Python and GoLANG**
-
-- 💬 Ask me about **Enthusiast on new techs. ReactJS, SQL, NodeJS, JavaScript, TypeScript.**
-
-- 📫 How to reach me **chilo.guilherme@gmail.com**
-
-
 <h1 align="center">Hi , Guilherme Chilo' <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer" alt="https://git.io/typing-svg" />
 </p>
 
 
